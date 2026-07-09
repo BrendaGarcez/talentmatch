@@ -159,4 +159,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-*MVP developed during the MEIU (Methodology of University Extension and Innovation) discipline at [UTFPR](https://www.utfpr.edu.br/), validated in partnership with a retail company.*
+*MVP developed during the MEIU discipline at [UTFPR](https://www.utfpr.edu.br/), validated in partnership with a retail company.*
